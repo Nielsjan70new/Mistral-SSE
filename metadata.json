@@ -1,0 +1,5 @@
+{
+  "name": "Planon Knowledge Assistant 2.0 (AWS App)",
+  "description": "A frontend application that serves as a knowledge assistant, allowing users to perform internal and external searches and get summarized results with sources.",
+  "requestFramePermissions": []
+}
