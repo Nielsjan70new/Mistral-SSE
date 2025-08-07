@@ -3,7 +3,7 @@
 import type { SearchResult, Message } from '../types';
 
 // CORRECTED: Removed the trailing slash from the URL
-const BACKEND_URL = 'http://127.0.0.1:5000';
+const BACKEND_URL = 'http://planon-prod.eba-7ejh4am6.eu-central-1.elasticbeanstalk.com';
 
 /**
  * A single, unified function to handle all search queries.
